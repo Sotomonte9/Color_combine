@@ -1,0 +1,72 @@
+body{
+    background-color: antiquewhite;
+}
+.circulo{
+        background: lightblue;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        float:left;
+        margin: 10px;
+}
+.mas{
+    position: relative;
+    float: left;
+    font-size: 1.4rem;
+    text-align: center;
+    margin: 5px;
+    margin-top: 50px;
+
+}
+.gordo{
+    clear: both;
+}
+.Red{
+    background-color: red ;
+}
+.Green{
+    background-color: greenyellow;
+}
+.Blue{
+    background-color: blue;
+}
+.Lila{
+    background-color: blueviolet;
+}
+.Clarito{
+    background-color: aqua;
+}
+.Yellow{
+    background-color: yellow;
+}
+.isolate {
+    isolation: isolate;
+    margin-left: 50%;
+}
+
+.obj {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    border-radius: 50%;
+
+}
+
+.rojito {
+    background:red;
+    mix-blend-mode:lighten;
+}
+
+.verde {
+    background:greenyellow;
+    margin-left: 200px;
+    mix-blend-mode:lighten;
+    
+}
+
+.asul {
+    background: blue;
+    margin-left: 100px;
+    margin-top: 200px;
+    mix-blend-mode:lighten;
+}
